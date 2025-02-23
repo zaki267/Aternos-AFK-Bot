@@ -1,8 +1,8 @@
 {
-	"ip": "YOUR_SERVER_IP",
-	"port": "YOUR_SERVER_PORT",
-	"version": "YOUR_SERVER_VERSION",
-	"username": "NoNameBot",
+	"ip": "sv12-TSH8.aternos.me",
+	"port": "42775",
+	"version": "1.21.61.01",
+	"username": "AfkBot",
 	"autonightskip": false,
 	"pi": 3.14159,
 	"moveinterval": 2,
